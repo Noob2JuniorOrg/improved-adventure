@@ -1,0 +1,9 @@
+.shadow {
+  box-shadow: 0 20px 50px -20px #ff7e1b;
+}
+
+@media screen and (min-width: 1200px) {
+  .shadow {
+    box-shadow: none;
+  }
+}
